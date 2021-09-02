@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="paralelno_aes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/paralelno_aes_jar</output-path>
+    <root id="archive" name="paralelno_aes.jar">
+      <element id="module-output" name="paralelno_aes" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/edu-2.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
